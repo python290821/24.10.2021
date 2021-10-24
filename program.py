@@ -1,4 +1,12 @@
 
+def find_smallest(a, b, c):
+    if a < b and a < c:
+        return a
+    elif b < c:
+        return b
+    else:
+        return c
+
 def get_in_range(_min = 1, _max = 100):
     while True:
         number = int(input(f'please enter number in range({_min}-{_max}'))
