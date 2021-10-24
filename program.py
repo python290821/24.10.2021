@@ -1,4 +1,4 @@
-
+# https://docs.python.org/3/library/stdtypes.html#string-methods
 ################################### 1
 # input user first and last name
 # i.e. moshe cohen
