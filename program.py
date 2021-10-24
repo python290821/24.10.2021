@@ -12,6 +12,6 @@
 # i.e. '123' -- int
 # i.e. '5.7' -- float
 # i.e. '5.7.1' -- illegal
-# i.e. ' 123' -- int
+# i.e. ' 12 3' -- int
 # i.e. 'a' -- alpha (isaplha)
 # i.e. 'a1' -- mix
